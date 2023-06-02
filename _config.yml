@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aziz Farghly"
+title                    : "Farghly Mal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Amr Ashraf"
-description              : "Malware Analysis RE"
+name                     : "Farghly Mal"
+description              : "Malware Reverse Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aziz Farghly"
+  name             : "Farghly Mal"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer engineer interested in reverse engineering, forensics and malware analysis "
+  bio              : "I'm Aziz Farghly ,I am interested in Malwares and learning lowlevel "
   location         : "Egypt"
-  email            :
+  email            : farghly.mahmod66@outlook.com
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
