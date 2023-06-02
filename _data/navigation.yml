@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "Malware Analysis"
+    url: /categories/#malware-analysis
+  - title: "Forensic investigation"
+    url: /categories/#forensic-investigation
+  #- title: "Mal-Docs"
+   # url: /categories/#mal-docs
+  - title: "Offensive"
+    url: /categories/#offensive
+  - title: "CTF"
+    url: /categories/#ctf
+  - title: "All Categories"
+    url: /categories
+  
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Quick-Start Guide"
+  # url: https://google.com
