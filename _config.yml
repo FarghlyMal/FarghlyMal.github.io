@@ -97,7 +97,7 @@ author:
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm Aziz Farghly ,I am interested in Malwares and learning lowlevel "
   location         : "Egypt"
-  email            : farghly.mahmod66@outlook.com
+  email            : 
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
