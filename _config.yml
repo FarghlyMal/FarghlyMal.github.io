@@ -11,24 +11,24 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
-#remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Farghly Mal"
+title                    : "Cyber-Anubis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Farghly Mal"
-description              : "Malware Reverse Engineer"
+name                     : "Nidal Fikri"
+description              : "Malware Analysis RE"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #/assets/images/site_data/fotor-ai-2023060913253.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/site_data/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 210
+words_per_minute         : 170
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Farghly Mal"
+  name             : "Nidal Fikri"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm Aziz Farghly ,I am interested in Malwares and learning lowlevel "
-  location         : "where ever u go"
-  email            : 
+  bio              : "Malware Research Analyst at Recorded Future. Former Trend Micro Intern."
+  location         : "The Netherlands"
+  email            :
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
-     # url: "https://amr-git-dot.github.io/aboutme/"
+      url: "https://cyber-anubis.github.io/aboutme/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:farghly.mahmod66@outlook.com"
+      url: "mailto:nidalfikrikamil@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FarghlyMal"
-    - #label: "Facebook"
-      #icon: "fab fa-fw fa-facebook-square"
-      #url: "https://www.facebook.com/profile.php?id=100076430379156&mibextid=ZbWKwL"
+      url: "https://twitter.com/cyber_anubis"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/aziz-farghly-9133501a4"
+      url: "https://www.linkedin.com/in/nidal-fikri-kamil/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/FarghlyMal"
+      url: "https://github.com/cyber-anubis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FarghlyMal"
+       #url: "https://twitter.com/cyber_anubis"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
