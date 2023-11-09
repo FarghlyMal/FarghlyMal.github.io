@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cyber-Anubis"
+title                    : "FarghlyMal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nidal Fikri"
+name                     : "Aziz Farghly"
 description              : "Malware Analysis RE"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : /assets/images/site_data/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 170
+words_per_minute         : 210
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nidal Fikri"
-  avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Research Analyst at Recorded Future. Former Trend Micro Intern."
-  location         : "The Netherlands"
+  name             : "Aziz Farghly"
+  avatar           : /assets/images/site_data # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Malware Reverse Engineer,Intern in EG-CERT"
+  location         : "where ever u go ?!"
   email            :
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
-      url: "https://cyber-anubis.github.io/aboutme/"
+     # url: "https://cyber-anubis.github.io/aboutme/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nidalfikrikamil@gmail.com"
+      url: "mailto:farghly.mahmod66@outlook.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cyber_anubis"
+      url: "https://twitter.com/farghlymal"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nidal-fikri-kamil/"
+      url: "https://www.linkedin.com/in/aziz-farghly/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cyber-anubis"
+      url: "https://github.com/FarghlyMal"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
