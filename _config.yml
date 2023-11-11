@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Aziz Farghly"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Reverse Engineer,Intern in EG-CERT"
+  bio              : "Malware Reverse Engineer"
   location         : "where ever u go ?!"
   email            :
   links:
