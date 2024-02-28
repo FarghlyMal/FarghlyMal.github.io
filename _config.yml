@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Aziz Farghly"
-  avatar           : /assets/images/site_data/logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/site_data/Website page.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Reverse Engineer"
   location         : "where ever u go ?!"
   email            :
